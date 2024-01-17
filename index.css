@@ -34,4 +34,5 @@ h1{
     border: none;
     padding: .8em;
     border-radius: 2em;
+    background: white url('assets/search.svg')  ;
 }
