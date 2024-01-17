@@ -40,3 +40,9 @@ h1{
 .search:focus{
     outline: thin dotted;
 }
+
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3em;
+}
