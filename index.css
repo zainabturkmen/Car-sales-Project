@@ -30,11 +30,15 @@ h1{
 }
 
 .options{
-    
+    position: relative;
 }
 
 .filter{
-
+    position: absolute;
+    top: 3.5em;
+    right: 0.5em;
+    background: white;
+    padding: 1em;
 }
 
 .search{
