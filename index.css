@@ -12,3 +12,15 @@ body{
     background-color: F4F4F4;
     font-family: 'Lexend Deca', sans-serif;
 }
+
+.container{
+    margin: 2.8em;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+.headline p{
+    color: var(--text-color);
+}
