@@ -68,5 +68,10 @@ h1{
 
 .car-location{
     font-size: 1.25rem;
-    
+    color: var(--text-color);
+}
+
+.cols-2{
+    display: flex;
+    justify-content: space-between;
 }
