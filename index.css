@@ -37,9 +37,11 @@ h1{
     position: absolute;
     top: 3.5em;
     right: 0.5em;
-    background: white;
-    padding: 1em;
+    background: #FFF;
+    padding: 1.5em;
     border-radius: 6px;
+    box-shadow: 11px 18px 54px 0px rgba(0, 0, 0, 0.11);
+
 }
 
 .search{
