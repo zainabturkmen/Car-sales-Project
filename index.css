@@ -24,3 +24,9 @@ h1{
 .headline p{
     color: var(--text-color);
 }
+
+
+.filter, .labels{
+    display: none;
+}
+
