@@ -74,4 +74,5 @@ h1{
 .cols-2{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
