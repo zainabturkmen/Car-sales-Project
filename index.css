@@ -58,6 +58,12 @@ h1{
 
 .cars, .labels{
     margin: -1em -1em 2em ;
+    padding: 1em;
+    border: 6px;
+}
+
+.cars:hover{
+    background: white;
 }
 
 .car-name{
