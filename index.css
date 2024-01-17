@@ -46,6 +46,10 @@ h1{
 .chk-container{
     margin: 1em;
 }
+
+/* .chk-container:last-of-type{
+    margin-bottom: 0;
+} */
 .search{
     border: none;
     padding: .8em;
