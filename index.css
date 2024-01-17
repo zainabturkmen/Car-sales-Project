@@ -42,6 +42,7 @@ h1{
     border-radius: 6px;
     box-shadow: 11px 18px 54px 0px rgba(0, 0, 0, 0.11);
     clip-path: circle(0% at 100% 0%);
+    transition: clip-path .3s ease-in-out;
 }
 
 .chk-container{
