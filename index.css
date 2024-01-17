@@ -38,11 +38,14 @@ h1{
     top: 3.5em;
     right: 0.5em;
     background: #FFF;
-    padding: 1.5em;
+    padding: 1em;
     border-radius: 6px;
     box-shadow: 11px 18px 54px 0px rgba(0, 0, 0, 0.11);
 }
 
+.chk-container{
+    margin: 1em;
+}
 .search{
     border: none;
     padding: .8em;
