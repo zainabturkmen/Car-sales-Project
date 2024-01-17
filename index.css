@@ -33,4 +33,5 @@ h1{
 .search{
     border: none;
     padding: .8em;
+    border-radius: 2em;
 }
