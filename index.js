@@ -25,3 +25,8 @@ document.addEventListener('mouseup', (event) => {
     }
 
 })
+
+function changeHeart(x){
+    x.classList.toggle('fas')
+    x.classList.toggle('far')
+}
