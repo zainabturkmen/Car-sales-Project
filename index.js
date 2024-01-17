@@ -2,7 +2,8 @@
 
 const menu = document.querySelector('.menu')
       filter = document.querySelector('.filter')
-      filterStyle = window.getComputedStyle(filter);
+      filterStyle = window.getComputedStyle(filter)
+      hearts = document.querySelectorAll('.far');
 
 
 menu.addEventListener('click', ()=> {
