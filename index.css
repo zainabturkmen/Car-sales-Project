@@ -1,3 +1,13 @@
 *, *:before, *:after {
     box-sizing: border-box;
 }
+
+:root{
+    --text-color: #565656;
+    --primary-color: #008AD8;
+}
+
+body{
+    margin: 0;
+    background-color: F4F4F4;
+}
