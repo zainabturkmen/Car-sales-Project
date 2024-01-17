@@ -59,3 +59,14 @@ h1{
 .cars, .labels{
     margin: -1em -1em 2em ;
 }
+
+.car-name{
+    text-decoration: none;
+    color: var(--primary-color);
+    font-size: 1.22rem;
+}
+
+.car-location{
+    font-size: 1.25rem;
+    
+}
