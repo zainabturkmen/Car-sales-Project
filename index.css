@@ -55,3 +55,7 @@ h1{
     cursor: pointer;
     margin: 0, .5em;
 }
+
+.cars, .labels{
+    margin: -1em -1em 2em ;
+}
