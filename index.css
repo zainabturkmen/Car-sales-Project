@@ -50,3 +50,8 @@ h1{
 .far, .fas{
     cursor: pointer;
 }
+
+.menu{
+    cursor: pointer;
+    margin: 0, .5em;
+}
