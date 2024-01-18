@@ -121,6 +121,6 @@ h1{
         background-color: var(--primary-color);
         color: white;
         text-transform: uppercase;
-
+        display: grid;
     }
 }
