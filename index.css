@@ -118,5 +118,7 @@ h1{
 
     .labels{
         display: block;
+        background-color: var(--primary-color);
+        
     }
 }
