@@ -14,7 +14,7 @@ menu.addEventListener('click', ()=> {
 
     else{
         filter.style.clipPath = 'circle(0% at 100% 0%)'
-    }
+    } 
 })
 
 document.addEventListener('mouseup', (event) => {
