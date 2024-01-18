@@ -125,6 +125,12 @@ h1{
         display: grid;
         grid-template-columns: 40% 30% 20% auto;
         padding: .2em 1em;
+    }
+
+    .cars{
+        display: grid;
+        grid-template-columns: 40% 30% 20% auto;
+        padding: .2em 1em;
 
     }
 }
