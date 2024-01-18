@@ -37,3 +37,5 @@ function ten(){
 }
 
 ten()
+
+const arrowFun = _ => 10
