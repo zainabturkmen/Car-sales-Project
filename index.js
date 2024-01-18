@@ -38,4 +38,6 @@ function ten(){
 
 ten()
 
-const arrowFun = _ => 10
+const arrowFun = _ => 9
+
+console.log(arrowFun())
