@@ -130,7 +130,14 @@ h1{
     .cars{
         display: grid;
         grid-template-columns: 40% 30% 20% auto;
-        padding: .2em 1em;
+        /* padding: .2em 1em; */
+    }
 
+    .far, .fas{
+        margin: 1.6em;
+    }
+
+    .icons{
+        margin-bottom: 0;
     }
 }
