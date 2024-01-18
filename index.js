@@ -31,21 +31,3 @@
 //     x.classList.toggle('far')
 // }
 
-
-function ten(){
-    console.log(10)
-}
-
-ten()
-
-const arrowFun = _ => 9
-
-console.log(arrowFun())
-
-const logger = name => name
-
-console.log(logger('ninininini'))
-
-const add = (num1, num2) => num1+ num2
-
-console.log(add(1,3))
