@@ -116,5 +116,7 @@ h1{
         align-items: center;
     }
 
-    
+    .labels{
+        display: block;
+    }
 }
