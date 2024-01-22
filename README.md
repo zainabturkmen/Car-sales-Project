@@ -20,5 +20,3 @@ Hey All this is my Car-Sales-Project, from responsive design lessons please Star
 
             
 Happy Coding!  
-    
-
